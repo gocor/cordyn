@@ -1,4 +1,4 @@
-module gitlab.com/gocor/cordyn
+module github.com/gocor/cordyn
 
 go 1.16
 
